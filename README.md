@@ -31,12 +31,7 @@ const anmol = {
 ---
 <!--START_SECTION:waka-->
 
-**I'm an Early 🐤** 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaoMiss&show_icons=true&theme=dracula&hide=prs,issues,contribs)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaoMiss&layout=compact)
 
-```text
-🌞 Morning                536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-🌆 Daytime                1591 commits        █████████░░░░░░░░░░░░░░░░   37.45 % 
-🌃 Evening                1352 commits        ████████░░░░░░░░░░░░░░░░░   31.83 % 
-🌙 Night                  769 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-```
-📅 **I'm Most Productive on Sunday** 
+
